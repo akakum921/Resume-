@@ -1,4 +1,4 @@
-# Resume-
+# Resume
 Resume Project in HTML and CSS <br/>
 Created a responsive resume consisting of skills, work-experience, education, portfolio and contact section.
 <br/>
